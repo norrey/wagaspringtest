@@ -19,6 +19,7 @@ $ ./target/waga_norrey-0.0.1-SNAPSHOT.jar
 
 ```
 
+
 # Endpoints
 ```
 /persons/{person_id}/house      ->  Retrieve the house of the specified person
@@ -30,7 +31,7 @@ $ ./target/waga_norrey-0.0.1-SNAPSHOT.jar
 
 #Accessing Jacoco Test Coverage
 
-* After clean install above, test coverage can be foun in target/site/jacoco/index.html
+* After clean install above, test coverage can be found in target/site/jacoco/index.html
 
 #Accessing Management Endpoints
 
