@@ -1,4 +1,4 @@
-# Waga Speed Test
+# Waga Spring Project
 Spring Boot, Hibernate, MySQL
 
 
